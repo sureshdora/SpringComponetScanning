@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 public class UserRepo {
 
 	public UserRepo() {
-		System.out.println("I AM IN USERREPO CLASS");
+		System.out.println("I AM IN USERREPO CLASS(suresh)");
 	}
 }
