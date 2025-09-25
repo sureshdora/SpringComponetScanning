@@ -5,6 +5,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class UserRepo {
 
+	string name="suresh";
 	public UserRepo() {
 		System.out.println("I AM IN USERREPO CLASS(JAI JAGANNATH)");
 	}
